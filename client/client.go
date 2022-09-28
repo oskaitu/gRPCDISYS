@@ -1,5 +1,6 @@
 package main
 
 import (
-	gRPC "github.com/oskaitu/gRPCDISYS/proto";
+	
+	"github.com/oskaitu/gRPCDISYS/proto";
 )
